@@ -74,6 +74,7 @@ Its major features are:
 - [Under Armour](https://www.underarmour.com)
 - [VSHN](https://vshn.ch)
 - [Weave Cloud](https://cloud.weave.works)
+- [Yad2](https://yad2.co.il)
 
 If you too are using Flux in production; please submit a PR to add your organization to the list!
 
